@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web development, App development**
 
-- 📫 How to reach me **bhupendrakp08@gamil.com**
+- 📫 How to reach me **bhupendrakp08@gmail.com**
 
 - ⚡ Fun fact **"I can sketch portraits in under an hour."**
 
