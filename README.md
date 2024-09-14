@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13-bhupendra&label=Profile%20views&color=0e75b6&style=flat" alt="13-bhupendra" /> </p>
 
-- 🔭 I’m currently working on **Glassmorphism project**
+- 🔭 I’m currently working on **Glassmorphism & web pages**
 
 - 🌱 I’m currently learning **Web development, App development**
 
