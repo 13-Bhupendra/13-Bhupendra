@@ -1,15 +1,15 @@
  ![logo](https://github.com/13-Bhupendra/13-Bhupendra/blob/main/20240730_150932.jpg)
  
 <h1 align="center">Hi 👋, I'm Bhupendra Patil :)</h1>
-<h3 align="center">Aspiring Web and App Developer | Currently Pursuing Professional Training | Passionate about Creating Innovative Digital Solutions</h3>
+<h3 align="center">Aspiring Web Developer | Currently Pursuing Professional Training | Passionate about Creating Innovative Digital Solutions</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/13-Bhupendra/13-Bhupendra/blob/main/gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13-bhupendra&label=Profile%20views&color=0e75b6&style=flat" alt="13-bhupendra" /> </p>
 
-- 🔭 I’m currently working on **Glassmorphism & web pages**
+- 🔭 I’m currently working on **web pages**
 
-- 🌱 I’m currently learning **Web development, App development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **bhupendrakp08@gmail.com**
 
