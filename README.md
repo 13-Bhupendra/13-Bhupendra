@@ -16,7 +16,7 @@
 - ⚡ Fun fact **"I can sketch portraits in under an hour."**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/?miniprofileurn=urn%3ali%3afsd_profile%3aacoaaful0ugbpb2535kin9begxr3zqbn3ursplu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/?miniprofileurn=urn%3ali%3afsd_profile%3aacoaaful0ugbpb2535kin9begxr3zqbn3ursplu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/posts/bhupendra-patil-4b44ba33a_day-3-of-my-21-day-challenge-true-trends-activity-7292819213688188929-YE7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUl0UgBPb2535kiN9beGxr3zQbN3UrSplU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/?miniprofileurn=urn%3ali%3afsd_profile%3aacoaaful0ugbpb2535kin9begxr3zqbn3ursplu" height="30" width="40" /></a>
 <p align="left">
  <p>Bhupendra patil</p>
 <br>
