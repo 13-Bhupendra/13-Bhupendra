@@ -22,29 +22,29 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="160" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   
   <!-- Facebook -->
   <a href="https://www.facebook.com/bhupendra.patil" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" width="160" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/bhupendraa_x0/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" width="160" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
- 
+</p> 
 
- 
+<p align="center">
   <!-- Snapchat -->
   <a href="https://www.snapchat.com/add/bhupendraa_13" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="50" width="160" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/13-Bhupendra" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" width="160" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
@@ -85,14 +85,15 @@
 
 <!-- Streak Stats above -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=13-Bhupendra&theme=shadow_green&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=006400" alt="Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=13-Bhupendra&theme=shadow_green&hide_border=false&title_color=FFFFFF&text_color=808080&icon_color=006400" alt="Streak Stats" />
 </p>
 
 <!-- GitHub Stats (side by side) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13-Bhupendra&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=13-Bhupendra&theme=shadow_green&hide_border=false&show_icons=true&count_private=true&text_color=FFFFFF&icon_color=006400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13-Bhupendra&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact&text_color=808080&icon_color=FFFFFF" alt="GitHub Stats" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=13-Bhupendra&theme=shadow_green&hide_border=false&show_icons=true&count_private=true&text_color=808080&icon_color=006400" alt="GitHub Stats" />
 </p>
+
 
 
 ---
