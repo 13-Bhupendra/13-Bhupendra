@@ -1,5 +1,5 @@
- ![logo](https://github.com/13-Bhupendra/13-Bhupendra/blob/main/20240730_150932.jpg)
- 
+![logo](https://github.com/13-Bhupendra/13-Bhupendra/blob/main/20240730_150932.jpg)
+
 <h1 align="center">Hi 👋, I'm Bhupendra Patil :)</h1>
 <h3 align="center">Aspiring Web Developer | Currently Pursuing Professional Training | Passionate about Creating Innovative Digital Solutions</h3>
 
@@ -8,42 +8,113 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13-bhupendra&label=Profile%20views&color=0e75b6&style=flat" alt="13-bhupendra" /> </p>
 
 - 🔭 I’m currently working on **web pages**
-
 - 🌱 I’m currently learning **Web development**
-
 - 📫 How to reach me **bhupendrakp08@gmail.com**
-
 - ⚡ Fun fact **"I can sketch portraits in under an hour."**
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/posts/bhupendra-patil-4b44ba33a_day-3-of-my-21-day-challenge-true-trends-activity-7292819213688188929-YE7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUl0UgBPb2535kiN9beGxr3zQbN3UrSplU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/?miniprofileurn=urn%3ali%3afsd_profile%3aacoaaful0ugbpb2535kin9begxr3zqbn3ursplu" height="30" width="40" /></a>
-<p align="left">
- <p>Bhupendra patil</p>
-<br>
-<a href="https://fb.com/bhupendra patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhupendra patil" height="30" width="40" /><p>Bhupendra Patil</p></a>
-<a href="https://instagram.com/bhupendraa_x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhupendraa_x0" height="30" width="40" /><p> bhupendraa_x0</a>
-<br><br>
-<a href="https://www.snapchat.com/add/bhupendraa_13?share_id=qXJgcNGQjGk&locale=en-US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="bhupendraa_13" height="30" width="40" /><p> bhupendraa_13</a>
- <br><br>    
-<a href="https://github.com/13-Bhupendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="13-Bhupendra" height="30" width="40" /><p>13-Bhupendra </a>
+---
 
+<br><br><br><br><br><br>
+<h3 align="center">Connect with me:</h3>
+<hr>
+
+<!-- Row 1 -->
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="140" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/bhupendra.patil" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" width="140" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/bhupendraa_x0/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" width="140" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 </p>
-     
-<h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>  &nbsp&nbsp&nbsp  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>  &nbsp&nbsp&nbsp  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a>  &nbsp&nbsp&nbsp <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> &nbsp&nbsp&nbsp   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHoBesASkqg5rrhTZGEhDHwbpVkt5EMI3Jg&s" alt="bootstrap" width="50" height="50"/> </a>  &nbsp&nbsp&nbsp <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/853/331/png-transparent-jquery-javascript-library-html-scripting-jquery-logo-frontend-web-applications-3d-icon-thumbnail.png" width="50" height="50"/> </a> &nbsp&nbsp&nbsp&nbsp  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="55" height="55"/> </a>  &nbsp&nbsp&nbsp&nbsp  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/> </a> </p> 
+<br>
+
+<!-- Row 2 -->
+<p align="center">
+  <!-- Snapchat -->
+  <a href="https://www.snapchat.com/add/bhupendraa_13" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="40" width="140" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/13-Bhupendra" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" width="140" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
+
+ <br><br><br>
+
+<h3 align="center">Languages and Tools:</h3>
+<hr>
+
+<p align="center">
+  <!-- C Language -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin: 0 15px;" />  &nbsp;&nbsp;&nbsp;
+  </a>
+
+  <!-- C++ Language -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin: 0 15px;" />  &nbsp;&nbsp;&nbsp;
+  </a>
+
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55" style="margin: 0 15px;" />  &nbsp;&nbsp;&nbsp;
+  </a>
+
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55" style="margin: 0 15px;" />  &nbsp;&nbsp;&nbsp;
+  </a>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHoBesASkqg5rrhTZGEhDHwbpVkt5EMI3Jg&s" alt="bootstrap" width="50" height="50" style="margin: 0 15px;" />  &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+
+  <!-- jQuery -->
+  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://w7.pngwing.com/pngs/853/331/png-transparent-jquery-javascript-library-html-scripting-jquery-logo-frontend-web-applications-3d-icon-thumbnail.png" alt="jquery" width="50" height="50" style="margin: 0 15px;" />  &nbsp;&nbsp;&nbsp;
+  </a>
+
  
+  <!-- Chart.js -->
+  <a href="https://www.chartjs.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="55" height="55" style="margin: 0 15px;" />  &nbsp;&nbsp;&nbsp;
+  </a>
 
-<p align="center"  ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=13-bhupendra&" alt="13-bhupendra" /></p>
+  <!-- Photoshop -->
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55" style="margin: 0 15px; filter: invert(1);" />  &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=13-Bhupendra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=13-bhupendra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- JavaScript -->
+  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 0 15px;" />
+  </a>
+</p>
+
+
+ <br><br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=13-bhupendra&" alt="13-bhupendra" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=13-Bhupendra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=13-bhupendra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
- 
- 
- 
 
-
-
+---
 
 <h1 align="center">Thank you For Visiting on my Profile !!</h1>
