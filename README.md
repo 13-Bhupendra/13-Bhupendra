@@ -34,11 +34,9 @@
   <a href="https://www.instagram.com/bhupendraa_x0/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" width="160" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
-</p>
-<br>
+ 
 
-<!-- Row 2 -->
-<p align="center">
+ 
   <!-- Snapchat -->
   <a href="https://www.snapchat.com/add/bhupendraa_13" target="blank">
     <img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="50" width="160" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
