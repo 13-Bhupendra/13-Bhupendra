@@ -76,6 +76,8 @@
   <!-- Row 3 -->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" height="50" />&nbsp;&nbsp;&nbsp;
 </p>
 
  <br>
