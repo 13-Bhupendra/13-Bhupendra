@@ -20,33 +20,43 @@
 
 <!-- Row 1 -->
 <p align="center">
+  
+  <!-- GitHub -->
+  <a href="https://github.com/13-Bhupendra" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" width="160" style="margin: 15px 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <a href="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="160" style="margin: 15px 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:bhupendrakp08@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="50" width="160" style="margin: 15px 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<!-- Row 2 -->
+<p align="center">
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/bhupendraa_x0/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" width="160" style="margin: 15px 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Facebook -->
-  <a href="https://www.facebook.com/bhupendra.patil" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <a href="https://www.facebook.com/bhupendra.patil" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" width="160" style="margin: 15px 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/bhupendraa_x0/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</p> 
-
-<p align="center">
   <!-- Snapchat -->
-  <a href="https://www.snapchat.com/add/bhupendraa_13" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/13-Bhupendra" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" width="160" style="margin: 15px 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <a href="https://www.snapchat.com/add/bhupendraa_13" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="50" width="160" style="margin: 15px 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
  <br>
 
