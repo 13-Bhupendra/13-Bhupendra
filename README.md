@@ -31,8 +31,8 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Email -->
-  <a href="mailto:bhupendrakp08@gmail.com">
+  <!-- Email (Updated) -->
+  <a href="mailto:bhupendrakp08@gmail.com?subject=Hello&body=Hi%20Bhupendra,%20I%20wanted%20to%20reach%20out%20to%20you..." target="_blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="50" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,11 +51,11 @@
     <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Snapchat -->
-  <a href="https://www.snapchat.com/add/bhupendraa_13" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" height="50" width="160" style="margin: 15px 10px;" />
+   
+  <!-- Portfolio  -->
+  <a href="https://www-bhupendra-portfolio.netlify.app" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" height="50" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 
  <br>
