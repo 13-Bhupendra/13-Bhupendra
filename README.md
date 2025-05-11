@@ -1,4 +1,4 @@
-![logo](https://github.com/13-Bhupendra/13-Bhupendra/blob/main/20240730_150932.jpg)
+![logo](https://github.com/13-Bhupendra/13-Bhupendra/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Bhupendra Patil :)</h1>
 <h3 align="center">Aspiring Web Developer | Currently Pursuing Professional Training | Passionate about Creating Innovative Digital Solutions</h3>
