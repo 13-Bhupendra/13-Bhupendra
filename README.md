@@ -20,23 +20,21 @@
 
 <!-- Row 1 -->
 <p align="center">
- 
-    
+
+  <!-- Portfolio -->
   <a href="https://www-bhupendra-portfolio.netlify.app" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" height="50" width="160" style="margin: 15px 10px;" />
+    <img align="center" src="https://img.shields.io/badge/Portfolio-2C3E50?logo=web&logoColor=white" alt="Portfolio" height="45" width="180" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  
   <!-- GitHub -->
   <a href="https://github.com/13-Bhupendra" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" width="160" style="margin: 15px 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="160" style="margin: 15px 10px;" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-24292F?logo=github&logoColor=white" alt="GitHub" height="45" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bhupendra-patil-4b44ba33a/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="45" width="160" style="margin: 15px 10px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -45,52 +43,48 @@
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/bhupendraa_x0/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="50" width="160" style="margin: 15px 10px;" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?logo=instagram&logoColor=white" alt="Instagram" height="50" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
   <!-- Facebook -->
   <a href="https://www.facebook.com/bhupendra.patil" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50" width="160" style="margin: 15px 10px;" />
+    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?logo=facebook&logoColor=white" alt="Facebook" height="50" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
 
-  
   <!-- Email -->
   <a href="mailto:bhupendrakp08@gmail.com?subject=Hello&body=Hi%20Bhupendra,%20I%20wanted%20to%20reach%20out%20to%20you..." target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="50" width="160" style="margin: 15px 10px;" />
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="45" width="160" style="margin: 15px 10px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+</p>
 
  <br><br>
 
  
 <h3 align="center"> 💻 Languages and Tools:</h3>
 <hr>
- 
+<!-- Row 1 -->
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-  
+  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40" width="180" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" height="40" width="170" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap&logoColor=white" alt="Bootstrap" height="40" width="190" style="margin: 0 15px;" />
 </p>
 
+<!-- Row 2 -->
 <p align="center">
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="43" width="90" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="40" width="130" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="40" width="130" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="40" width="85" style="margin: 0 15px;" />
 </p>
 
+<!-- Row 3 -->
 <p align="center">
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" height="50" style="margin: 0 15px;" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white" alt="Chart.js" height="40" width="190" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" height="40" width="180" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" height="40" width="180" style="margin: 0 15px;" />
 </p>
+
 
  <br>
  
