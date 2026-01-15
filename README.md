@@ -125,5 +125,3 @@
 
 
 ---
-
-<h1 align="center">Thank you For Visiting on my Profile !!</h1>
